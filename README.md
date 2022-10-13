@@ -24,7 +24,7 @@ The app should have a user registration and login.  After the user logged into t
 
 ## TEAM MEMBERS
 
--AMJATH M
--FARDEEN SHA
--SYED SULAIMAN SAIT
--AHAMED BASHA
+*AMJATH M
+*FARDEEN SHA
+*SYED SULAIMAN SAIT
+*AHAMED BASHA
