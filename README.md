@@ -20,6 +20,15 @@ The app should have a user registration and login.  After the user logged into t
 
 
 
+
+Technical Architecture :
+
+
+
+
+
+
+
 ## PROJECT STATUS - DEVELOPMENT STAGE
 
 ## TEAM MEMBERS
